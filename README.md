@@ -1,2 +1,2 @@
-# Exerc-ciosJava
+# ExerciciosJava
 Todos os exercícios de PAM em Java.
