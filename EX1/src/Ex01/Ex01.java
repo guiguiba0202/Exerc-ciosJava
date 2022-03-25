@@ -11,6 +11,8 @@ import java.util.Scanner;
  *
  * @author 2etimds
  */
+
+/*Lê um número entre 0 e 999 e o escreve por extenso.*/
 public class Ex01 {
 
     /**
